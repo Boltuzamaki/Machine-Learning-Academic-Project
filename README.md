@@ -11,7 +11,7 @@
 [Click Here](https://news-category-classifier.herokuapp.com/)
 
 ## In short 
-<img src="https://github.com/Boltuzamaki/Machine-Learning-Academic-Project/blob/master/plots/textclassification.gif" width="600" height="400 />
+<img src="https://github.com/Boltuzamaki/Machine-Learning-Academic-Project/blob/master/plots/textclassification.gif" width="600" height="400" />
 
 ### Sports category most frequent words
 <img src="https://github.com/Boltuzamaki/Machine-Learning-Academic-Project/blob/master/plots/sports_frequent.png"  width="600" height="400" />
